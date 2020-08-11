@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>282957018199-vu07frvtc0lrj2b0jfv037u1e9abktnh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.282957018199-vu07frvtc0lrj2b0jfv037u1e9abktnh</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAIHcJrqWfNSsaS_NtxGT0kQAFvTsSUzBU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>282957018199</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.yutaudemy.LEV3App</string>
+	<key>PROJECT_ID</key>
+	<string>testpro-913ad</string>
+	<key>STORAGE_BUCKET</key>
+	<string>testpro-913ad.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:282957018199:ios:d9e01a62d52885f0375f12</string>
+	<key>DATABASE_URL</key>
+	<string>https://testpro-913ad.firebaseio.com</string>
+</dict>
+</plist>
